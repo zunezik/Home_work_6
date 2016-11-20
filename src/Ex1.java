@@ -8,7 +8,6 @@ public class Ex1 {
         int[] arr = new int[arrSize];
         arr = inputArray(arr);
         outputArray(arr);
-
     }
 
     private static void outputArray(int[] arr) {
@@ -25,6 +24,4 @@ public class Ex1 {
         }
         return arr;
     }
-
-
 }

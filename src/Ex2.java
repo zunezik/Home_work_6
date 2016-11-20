@@ -10,6 +10,5 @@ public class Ex2 {
         rectangle.width = sc.nextDouble();
 
         System.out.println(rectangle.getArea());
-
     }
 }

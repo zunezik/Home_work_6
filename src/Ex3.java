@@ -13,6 +13,5 @@ public class Ex3 {
         human.age = sc.nextInt();
 
         human.printInfo();
-
     }
 }
